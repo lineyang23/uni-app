@@ -58,7 +58,7 @@ uni-app 已将常用的组件、JS API 封装到框架中，开发者按照 uni-
 
 ![](https://img-cdn-qiniu.dcloud.net.cn/uniapp/doc/img/platform-7.png)
 
-示例，如下代码不会在 H5 平台上出现：
+示例，如下代码仅在 H5 平台上出现：
 
 ![](https://img-cdn-qiniu.dcloud.net.cn/uniapp/doc/img/platform-6.png)
 
